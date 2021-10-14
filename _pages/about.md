@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 
-I am an Ph.D. candidate in the department of [Public Policy and Administration at Florida International University](https://pa.fiu.edu/). 
+I am a Ph.D. candidate in the department of [Public Policy and Administration at Florida International University](https://pa.fiu.edu/). 
