@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Omur Damla Kuru / P.hD. Candidate"
+title                    : "Omur Damla Kuru / Ph.D. Candidate"
 title_separator          : "-"
 name                     : &name "Omur Damla Kuru"
-description              : &description "P.hD. Candidate in Environmental Policy"
+description              : &description "Ph.D. Candidate in Public Policy & Administration"
 url                      : https://damlakuru.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/damlakuru.github.io"
