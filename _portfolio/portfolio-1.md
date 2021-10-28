@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/> <iframe src="https://github.com/damlakuru/damlakuru.github.io/blob/master/files/Omur%20Damla%20Kuru_Portfolio_BS.pdf" style="width:600px; height:500px;" frameborder="0">"
+excerpt: "Short description of portfolio item number 1<iframe src="https://github.com/damlakuru/damlakuru.github.io/blob/master/files/Omur%20Damla%20Kuru_Portfolio_BS.pdf" style="width:600px; height:500px;" frameborder="0">"
 collection: portfolio
 ---
 
