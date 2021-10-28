@@ -3,7 +3,7 @@ title: "Post-disaster Relocation in the Face of Rising Seas: The Florida Keys af
 collection: talks
 type: "Virtual Presentation"
 permalink: /talks/senior-fellows-and-friends
-venue: ["Senior Fellows and Friends"](https://seniorfellowsandfriends.org/events/)
+venue: "Senior Fellows and Friends:https://seniorfellowsandfriends.org/mp-files/rising-seas.pdf/"
 date: 2021-07-21
 location: "Virtual"
 ---
