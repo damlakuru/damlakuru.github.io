@@ -8,4 +8,4 @@ date: 2021-07-21
 location: "Virtual"
 ---
 
-The thematic analysis of the case study (i.e., interviews, participant obsevations and review of secondary sources) conducted in the Florida Keys in the post-Hurricane Irma period.  
+The thematic analysis of the case study (i.e., interviews, participant obsevations and review of secondary sources) conducted in the Florida Keys in the post-Hurricane Irma period. A recorded talk can be found [here](https://www.youtube.com/watch?v=F3qoN-tlQbM&t=56s&ab_channel=DamlaAraci).
