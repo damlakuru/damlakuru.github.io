@@ -1,5 +1,5 @@
 ---
-title: "Back to "the New Normal" in the Face of Rising Seas: Sea Level Rise Adaptation and Mitigation in Post-Disaster Recovery Context in the U.S."
+title: "Back to the New Normal in the Face of Rising Seas: Sea Level Rise Adaptation and Mitigation in Post-Disaster Recovery Context in the U.S."
 collection: talks
 type: "Research Talk"
 permalink: /talks/iaarc-event
