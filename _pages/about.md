@@ -13,4 +13,4 @@ I am a postdoctoral fellow at the [University of Utah City and Metropolitan Plan
 
 Having received interdisciplinary educational training in City and Regional Planning, Urban Design, and Public Affairs, I value knowledge creation in the convergence of various disciplines.
 
-My full list of publications can be found in my [CV](https://damlakuru.github.io/cv/), and in my gradually [updated google scholar](https://scholar.google.com/citations?user=m7L3N74AAAAJ&hl=en).
+My full list of publications can be found in my <a href="https://damlakuru.github.io/cv/" target="_blank">CV</a>, and in my gradually [updated google scholar](https://scholar.google.com/citations?user=m7L3N74AAAAJ&hl=en).
