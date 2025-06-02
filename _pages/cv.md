@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can find my up-to-date <a href="https://github.com/damlakuru/damlakuru.github.io/blob/master/files/damlacv_website_added.pdf">CV</a> here 
+You can find my up-to-date <a href="https://github.com/damlakuru/damlakuru.github.io/blob/master/files/damlacv_website_added.pdf" target="_blank>CV</a> here 
