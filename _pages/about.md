@@ -9,8 +9,16 @@ redirect_from:
 ---
 
 
-I am a postdoctoral fellow at the <a href="https://plan.cap.utah.edu/" target="_blank">University of Utah City and Metropolitan Planning Department</a> & <a href="https://resilience.utah.edu/about/">the NSF-Wired Global Center</a>. Before, I was a visiting scholar in the <a href="http://www.umass.edu/larp/">Department of Landscape Architecture and Regional Planning at the University of Massachusetts, Amherst</a>. My core research interests lie primarily in the areas of environmental planning and policymaking, disaster planning, climate change adaptation & population mobility, and housing. My current research is concerned with how climate change-induced population mobility is shaping urban systems and how planning and policymaking can address the pressures on affected communities. I received my Ph.D. in Public Affairs from the Department of <a href="https://pa.fiu.edu/">Public Policy and Administration at Florida International University</a>. I finished my B.Sc. and M.Sc. in City & Regional Planning and Urban Design, respectively, at <a href="https://city.iyte.edu.tr/en/programs/graduate-programs/city-planning/">Izmir Institute of Technology</a>. I also worked as a senior real estate appraisal consultancy expert in Turkey after my undergrad for 6 years. 
+I am a postdoctoral fellow at the <a href="https://plan.cap.utah.edu/" target="_blank">University of Utah City and Metropolitan Planning Department</a> and <a href="https://resilience.utah.edu/about/" target="_blank">the NSF-Wired Global Center</a>. Previously, I was a visiting scholar in the <a href="http://www.umass.edu/larp/" target="_blank">Department of Landscape Architecture and Regional Planning at the University of Massachusetts, Amherst</a>.
 
-Having received interdisciplinary educational training in City and Regional Planning, Urban Design, and Public Affairs, I value knowledge creation in the convergence of various disciplines.
+**Research Interests**
 
-My full list of publications can be found in my <a href="https://damlakuru.github.io/cv/" target="_blank">CV</a>, and in my gradually <a href="https://scholar.google.com/citations?user=LFc0DVoAAAAJ&hl=en" target="_blank">updated google scholar</a>.
+My core research interests lie in environmental planning and policymaking, disaster planning, climate change adaptation and population mobility, and housing. My current research examines how climate change-induced population mobility is shaping urban systems and how planning and policymaking can address the pressures placed on affected communities.
+
+**Education & Background**
+
+I received my Ph.D. in Public Affairs from the <a href="https://pa.fiu.edu/" target="_blank">Department of Public Policy and Administration at Florida International University</a>. I hold a B.Sc. in City & Regional Planning and an M.Sc. in Urban Design, both from <a href="https://city.iyte.edu.tr/en/programs/graduate-programs/city-planning/" target="_blank">Izmir Institute of Technology</a>. Prior to my doctoral studies, I worked for six years as a senior real estate appraisal consultancy expert in Turkey.
+
+Having received interdisciplinary training across City and Regional Planning, Urban Design, and Public Affairs, I value knowledge creation at the intersection of multiple disciplines.
+
+My full list of publications can be found in my <a href="https://damlakuru.github.io/cv/" target="_blank">CV</a> and on my <a href="https://scholar.google.com/citations?user=LFc0DVoAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
