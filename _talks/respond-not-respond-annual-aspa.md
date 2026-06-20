@@ -8,4 +8,4 @@ date: 2021-04-01
 location: "Virtual"
 ---
 
-The review of  interdisciplinary literature on public sector response to sea level rise
+A review of interdisciplinary literature on public sector response to sea level rise.

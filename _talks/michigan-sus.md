@@ -8,4 +8,4 @@ date: 2018-11-01
 location: "Michigan, USA"
 ---
 
-The review of  interdisciplinary literature on public sector response to sea level rise
+A review of interdisciplinary literature on public sector response to sea level rise.

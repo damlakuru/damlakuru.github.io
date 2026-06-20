@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a postdoctoral fellow at the <a href="https://plan.cap.utah.edu/" target="_blank">University of Utah City and Metropolitan Planning Department</a> and <a href="https://resilience.utah.edu/about/" target="_blank">the NSF-Wired Global Center</a>. Previously, I was a visiting scholar in the <a href="http://www.umass.edu/larp/" target="_blank">Department of Landscape Architecture and Regional Planning at the University of Massachusetts, Amherst</a>.
+I am a postdoctoral fellow at the <a href="https://plan.cap.utah.edu/" target="_blank">University of Utah City and Metropolitan Planning Department</a> and <a href="https://resilience.utah.edu/" target="_blank">the NSF WIRED Global Center</a>. Previously, I was a visiting scholar in the <a href="http://www.umass.edu/larp/" target="_blank">Department of Landscape Architecture and Regional Planning at the University of Massachusetts, Amherst</a>.
 
 **Research Interests**
 

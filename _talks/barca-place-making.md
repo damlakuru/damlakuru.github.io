@@ -5,7 +5,7 @@ type: "Workshop Presentation"
 permalink: /talks/barca-place-making
 venue: "COAC International Workshop Architecture, Education and Society"
 date: 2010-07-01
-location: "Barcelona, Spain."
+location: "Barcelona, Spain"
 ---
 
-Evaluation of Sultanahmet District, Istanbul based on  placemaking guidelines-sociability, uses & activities, comfort & image, access & linkages
+Evaluation of Sultanahmet District, Istanbul based on placemaking guidelines—sociability, uses & activities, comfort & image, and access & linkages.

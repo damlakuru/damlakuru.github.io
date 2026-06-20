@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Omur Damla Kuru, Ph.D. "
+title                    : "Omur Damla Kuru, Ph.D."
 title_separator          : "-"
 name                     : &name "Omur Damla Kuru"
 description              : &description "Postdoctoral Fellow, City and Metropolitan Planning, University of Utah"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Damla Kuru"
   avatar           : "damlakuru.jpg"
-  bio              : "Postdoctoral Researcher"
-  employer         : "CMP University of Utah"
+  bio              : "Postdoctoral Fellow"
+  employer         : "City & Metropolitan Planning, University of Utah"
   googlescholar    : "https://scholar.google.com/citations?user=LFc0DVoAAAAJ&hl=en"
   email            : "u6062513@utah.edu"
   researchgate     : "https://www.researchgate.net/profile/Damla-Kuru-3"

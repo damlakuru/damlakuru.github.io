@@ -7,7 +7,8 @@
       "WebSearch",
       "WebFetch(domain:damlakuru.github.io)",
       "Bash(git push *)",
-      "Bash(git mv *)"
+      "Bash(git mv *)",
+      "Bash(grep -rn 'font-family\\\\|$global-font\\\\|$header-font\\\\|$sans-serif\\\\|$serif' _sass/)"
     ]
   }
 }
