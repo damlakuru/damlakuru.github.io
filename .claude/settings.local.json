@@ -4,7 +4,10 @@
       "Bash(git add:*)",
       "Bash(git commit:*)",
       "WebFetch(domain:scholar.google.com)",
-      "WebSearch"
+      "WebSearch",
+      "WebFetch(domain:damlakuru.github.io)",
+      "Bash(git push *)",
+      "Bash(git mv *)"
     ]
   }
 }
