@@ -1,11 +1,11 @@
 ---
 title: "Post-disaster Relocation in the Face of Rising Seas: The Florida Keys after Hurricane Irma"
 collection: talks
-type: "Virtual Presentation"
+type: "Invited Presentation"
 permalink: /talks/senior-fellows-and-friends
 venue: "Senior Fellows and Friends"
-date: 2021-07-21
+date: 2021-07-15
 location: "Virtual"
 ---
 
-The factors that affect relocation and repopulation decisions of the Florida Keys residents in the aftermath of Hurricane Irma. An advertisement for the talk can be found [here on the "Senior Fellows and Friends" website](https://seniorfellowsandfriends.org/mp-files/rising-seas.pdf/).
+An advertisement for the talk can be found [here on the “Senior Fellows and Friends” website](https://seniorfellowsandfriends.org/events/).

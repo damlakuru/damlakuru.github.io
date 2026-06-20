@@ -7,5 +7,3 @@ venue: "ASPA (American Society for Public Administration) 2021 Annual Conference
 date: 2021-04-01
 location: "Virtual"
 ---
-
-A review of interdisciplinary literature on public sector response to sea level rise.
