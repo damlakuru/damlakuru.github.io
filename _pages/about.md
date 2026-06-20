@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Damla Kuru"
+title: "Omur Damla Kuru"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
